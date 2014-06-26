@@ -46,4 +46,3 @@ program data.csv fancy_european_water extreme_fajita
  Expected Output
 => 6, 11.0
 ---------------------------
- We have included all these samples in a single data file, sample_data.csv.    Please include instructions for how to run your program with your submission.
