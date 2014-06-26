@@ -1,5 +1,5 @@
  Because it is the Internet Age, but also it is a recession, the Comptroller of the town of Jurgensville has decided to publish the prices of every item on every menu of every restaurant in town, all in a single CSV file (Jurgensville is not quite up to date with modern data serializationmethods).  In addition, the restaurants of Jurgensville also offer Value Meals, which are groups of several items, at a discounted price.  The Comptroller has also included these Value Meals in the file.  The file's format is:
- for lines that define a price for a single item:
+ for lines that define a price for a single item: 
 restaurant ID, price, item label
  for lines that define the price for a Value Meal (there can be any number of
 items in a value meal)
