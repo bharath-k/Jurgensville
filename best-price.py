@@ -1,6 +1,9 @@
 #!/usr/local/bin/python
+
 """
-Tool to identify a restaurant that charges the least amount for a given set of
+Author: Bharath Kumaran
+Licensing: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+Description: Tool to identify a restaurant that charges the least amount for a given set of
 menu items.
 
 """
