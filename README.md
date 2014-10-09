@@ -21,7 +21,7 @@ and a list of item labels that someone wants to eat for dinner, and outputs the 
 and the total price it will cost them. It is okay to purchase extra items, as long as the total cost is minimized.
 
 Here are some sample data sets, program inputs, and the expected result:
-----------------------------
+
 Data File data.csv
 1, 4.00, burger
 1, 8.00, tofu_log
@@ -31,9 +31,9 @@ Program Input
 program data.csv burger tofu_log
 Expected Output
 => 2, 11.5
----------------------------
 
-----------------------------
+
+
 Data File data.csv
 3, 4.00, chef_salad
 3, 8.00, steak_salad_sandwich
@@ -44,9 +44,8 @@ program data.csv chef_salad wine_spritzer
 Expected Output
 => nil (or null or false or something to indicate that no matching
 restaurant could be found)
----------------------------
 
-----------------------------
+
 Data File data.csv
 5, 4.00, extreme_fajita
 5, 8.00, fancy_european_water
@@ -56,4 +55,4 @@ Program Input
 program data.csv fancy_european_water extreme_fajita
 Expected Output
 => 6, 11.0
----------------------------
+
